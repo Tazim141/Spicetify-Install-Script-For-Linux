@@ -15,4 +15,4 @@ This script automates everything from installing Spotify to setting up Spicetify
    chmod +x setup_spotify_spicetify.sh
    
 ## **Execute**
-  `./setup_spotify_spicetify.sh`
+  `sudo ./setup_spotify_spicetify.sh`
